@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1005464846720",
+    "firebase_url": "https://myself-1a4f6.firebaseio.com",
+    "project_id": "myself-1a4f6",
+    "storage_bucket": "myself-1a4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005464846720:android:82fe4db7e0a4fb6f",
+        "android_client_info": {
+          "package_name": "com.nextdaynow.myself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005464846720-d4fkpf4f4f3v8n3oqqi1g04kb1ke4bnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nextdaynow.myself",
+            "certificate_hash": "e3cd892eee8ecd4d4f846e8f614f80d6b2d4a8ef"
+          }
+        },
+        {
+          "client_id": "1005464846720-la412c9bhciht7kp5j605m2dc76bg9eg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1005464846720-la412c9bhciht7kp5j605m2dc76bg9eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1r6ulS0HMvwpYkT6rl2MTkSSuLxzA8Hk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005464846720-la412c9bhciht7kp5j605m2dc76bg9eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
